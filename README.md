@@ -1,2 +1,2 @@
-# Advent-Of-Code
-Advent Of Code Challenges from Tech with Tim Discord
+# Coding Challenges
+Coding Challenges from Discord
