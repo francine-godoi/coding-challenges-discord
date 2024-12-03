@@ -8,9 +8,7 @@ def get_info():
     
     return report
 
-def solution1():
-    
-    report = get_info()
+def solution1(report):
     
     safety = []
     unsafe = inc = dec = 0
@@ -33,4 +31,24 @@ def solution1():
 
     return len(safety)
 
-print(f"Safe: {solution1()}")
+def solution2(report):
+    
+    new_report = []
+    safe = 0
+
+    for level in report:
+        teste = level.copy()
+        for i in range(len(level)): 
+            teste.pop(i)
+            new_report.append(teste)
+            teste = level.copy()
+
+        if solution1(new_report) > 0:
+            safe += 1
+        new_report = []
+    
+    return(safe)
+
+report = get_info()
+print(f"Safe: {solution1(report)}")
+print(f"Problem Dampener: {solution2(report)}")
