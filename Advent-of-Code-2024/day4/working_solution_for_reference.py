@@ -50,3 +50,4 @@ def solve2(grid):
 if __name__ == "__main__":
     print("Part 1:", solve(grid))
     print("Part 2:", solve2(data))
+

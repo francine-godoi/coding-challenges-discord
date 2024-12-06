@@ -1,0 +1,25 @@
+# Zip/Postal code validating challenge
+
+Task:
+Check that a given postal code is valid, 3 things need to be checked:
+
+- it's made of only integers
+- there are 5 integers total, no less no more
+- there are no repetitive or neighboring digits
+
+That last check can be a bit confusing at first so let me try to explain it here:
+let's say that x can be any digit
+
+11xxx # two or more same digits in a row, not valid
+1x1xx # two or more neighboring digits, not valid
+1xx1x # no neighboring or next to each other digits, valid
+
+
+Grading criteria:
+- No libraries/imports allowed
+- The code needs to be within a function
+- Have the function named exactly validate
+- Have the function take the code as an argument
+- Have the function return True if the code is valid, and False otherwise 
+        (do not throw exceptions or print stuff if it's not valid, just return False)
+- Obviously do all the checks :grin~1:

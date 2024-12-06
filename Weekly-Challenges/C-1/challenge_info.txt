@@ -1,0 +1,18 @@
+# Year to century converter challenge
+
+Given a year, return the century it is in. 
+The first century spans from the year 1 up to and including the year 100,
+the second - from the year 101 up to and including the year 200, etc. 
+No libraries/imports allowed 
+
+Examples at work:
+
+>>> print(yearToCentury(355))
+4
+
+>>> print(yearToCentury(5698))
+57
+
+>>> print(yearToCentury(700))
+7
+

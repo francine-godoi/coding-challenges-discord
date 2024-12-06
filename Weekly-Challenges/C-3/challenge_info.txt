@@ -1,0 +1,13 @@
+# generator replicas challenge
+
+Task
+Recreate range() and enumerate()
+
+Grading criteria and submission
+Function names: erange(), numerate()
+
+They simply need to do the same thing the original ones do.
+However they don't have to be exact replicas,
+you do not have to account for edge cases or exceptions as those won't be tested.
+You cannot use the existing ones to create the replicas.
+
