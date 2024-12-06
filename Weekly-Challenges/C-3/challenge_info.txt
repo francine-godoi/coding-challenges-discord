@@ -11,3 +11,28 @@ However they don't have to be exact replicas,
 you do not have to account for edge cases or exceptions as those won't be tested.
 You cannot use the existing ones to create the replicas.
 
+
+class range(object)
+ |  range(stop) -> range object
+ |  range(start, stop[, step]) -> range object
+ |
+ |  Return an object that produces a sequence of integers from start (inclusive)
+ |  to stop (exclusive) by step.  range(i, j) produces i, i+1, i+2, ..., j-1.
+ |  start defaults to 0, and stop is omitted!  range(4) produces 0, 1, 2, 3.
+ |  These are exactly the valid indices for a list of 4 elements.
+ |  When step is given, it specifies the increment (or decrement).
+
+
+ class enumerate(object)
+ |  enumerate(iterable, start=0)
+ |
+ |  Return an enumerate object.
+ |
+ |    iterable
+ |      an object supporting iteration
+ |
+ |  The enumerate object yields pairs containing a count (from start, which
+ |  defaults to zero) and a value yielded by the iterable argument.
+ |
+ |  enumerate is useful for obtaining an indexed list:
+ |      (0, seq[0]), (1, seq[1]), (2, seq[2]), ...
