@@ -1,0 +1,64 @@
+# File Filter challenge
+
+You are nervous stepping into our new Tech With Tim Building as you are applying for the interview 
+you head to the waiting room getting more and more nervous you hear your name being called out
+ so you head into the room just to be met with our bot expert face to face (aka sylte).
+He gave you one task and a week to complete it.
+
+
+Task
+
+from discord.ext import commands
+
+def setup(bot):
+    bot.add_cog(FileFilter(bot=bot))
+
+class FileFilter(commands.Cog):
+    """Adds functionality to filter out sertant files based on their extention"""
+    def __init__(self, bot: commands.Bot):
+        self.bot = bot
+        self.accepted_extentions: List[str] = []
+
+    @commands.Cog.listener()
+    async def on_message(self, message: discord.Message):
+        ... # Add your code here.
+
+
+Using this format, check if the message has any attachments, if the attachments file extention is not in our list
+ of valid extention delete the message and let the user know you cant post files of that filetype!
+  Ignore any messages from staff and bots
+
+
+A list of allowed file extensions is available as self.accepted_extentions as seen in the code
+
+Grading
+Your code needs to have or needs to account for:
+
+- Functionality
+- Order of code
+- Readability 
+
+Reference
+https://discordpy.readthedocs.io/en/latest/
+https://discordpy.readthedocs.io/en/latest/intro.html#installing
+https://discordpy.readthedocs.io/en/latest/api.html#discord.FriendFlags.mutual_guilds
+https://discordpy.readthedocs.io/en/latest/api.html#discord.abc.Messageable.send
+https://discordpy.readthedocs.io/en/latest/ext/commands/cogs.html
+
+Here are the staff role IDs
+
+HELPER_ID = 541272748161499147
+MOD_ID = 511332506780434438
+ADMIN_ID = 580911082290282506
+TIM_ID = 511334601977888798
+
+tim role : >
+
+from discord.ext import commands
+bot = commands.Bot(command_prefix="!")
+
+a message.attachments is a list of attachments .. example :
+
+# when u print message.attachments
+[<Attachment id=725065644986597456 filename='New_Text_Document.txt'
+ url='https://cdn.discordapp.com/attachments/705785243101036605/725065644986597456/New_Text_Document.txt'>]
