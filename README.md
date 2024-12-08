@@ -4,6 +4,5 @@ Coding Challenges from Discord
 Using these to help me train Python.
 
 #TODO
-- Fix AoC day 4 for solution
-- Start on AoC day 5
+- Add AoC day 4 for solution 2
 - Start on challenge 5 of Weekly Challenges
