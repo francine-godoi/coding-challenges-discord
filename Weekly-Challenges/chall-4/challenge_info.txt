@@ -27,7 +27,6 @@ Grading criteria
 - no libraries/imports
 
 Note
-- Even with the day wait before submission please double check your solution before posting it
 - You can assume you'll always be given a 2d matrix
 - You can assume to always have even data (each sublist has the same amount of elements)
 
