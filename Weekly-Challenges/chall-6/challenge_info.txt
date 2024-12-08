@@ -13,14 +13,13 @@ Example
  [-1, 1, -1, 1, 1],
  [1, 0, -1, 1, 1]]
 
-
 no one there: -1
 person sitting: 1
 you: 0
 
 return "left" or "right" depending on which way to go to disturb the least amount of people. In this case it will be "left". (choose left or right from the perspective of looking at it from the top or the way you are looking at the matrix)
 
-Submission and Grading
+Grading
 
 - the function is called whichExit
 - the function needs to return a string that either contains left or right
