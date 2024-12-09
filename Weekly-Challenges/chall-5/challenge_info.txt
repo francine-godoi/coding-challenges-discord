@@ -2,7 +2,7 @@
 
 You are nervous stepping into our new Tech With Tim Building as you are applying for the interview 
 you head to the waiting room getting more and more nervous you hear your name being called out
- so you head into the room just to be met with our bot expert face to face (aka sylte).
+so you head into the room just to be met with our bot expert face to face (aka sylte).
 He gave you one task and a week to complete it.
 
 
@@ -24,9 +24,8 @@ class FileFilter(commands.Cog):
         ... # Add your code here.
 
 
-Using this format, check if the message has any attachments, if the attachments file extention is not in our list
- of valid extention delete the message and let the user know you cant post files of that filetype!
-  Ignore any messages from staff and bots
+Using this format, check if the message has any attachments, if the attachments file extention is not in our list of valid extention delete the message and let the user know you cant post files of that filetype!
+Ignore any messages from staff and bots
 
 
 A list of allowed file extensions is available as self.accepted_extentions as seen in the code
