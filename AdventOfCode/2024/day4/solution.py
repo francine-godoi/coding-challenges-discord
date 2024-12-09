@@ -47,7 +47,38 @@ def solution1():
     return count
 
 def solution2():
-    pass
+    array = get_info()
+    count = 0    
+    for row, line in enumerate(array):
+        for col, letter in enumerate(line):            
+            if letter == "A":
+                if row - 1 >= 0 and col - 1 >= 0 and row + 1 < len(array) and col + 1 < len(line):
+
+                    # M M
+                    #  A
+                    # S S
+                    if (array[row-1][col-1] == "M" and array[row+1][col+1] == "S") and (array[row-1][col+1] == "M" and array[row+1][col-1] == "S"):
+                        count += 1
+                    
+                    # M S
+                    #  A
+                    # M S
+                    if (array[row-1][col-1] == "M" and array[row+1][col+1] == "S") and (array[row-1][col+1] == "S" and array[row+1][col-1] == "M"):
+                        count += 1         
+
+                    # S S
+                    #  A
+                    # M M
+                    if (array[row-1][col-1] == "S" and array[row+1][col+1] == "M") and (array[row-1][col+1] == "S" and array[row+1][col-1] == "M"):
+                        count += 1
+
+                    # S M
+                    #  A
+                    # S M
+                    if (array[row-1][col-1] == "S" and array[row+1][col+1] == "M") and (array[row-1][col+1] == "M" and array[row+1][col-1] == "S"):
+                        count += 1  
+
+    return count
 
 
 print(f'Resultado: {solution1()}')
