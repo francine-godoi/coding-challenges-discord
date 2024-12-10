@@ -1,4 +1,4 @@
-# Dominos and chess challenge
+Dominos and chess challenge
 
 It can be fun to experiment using something in a way we don't usually use. Here we'll need to see whether or not we can completely fill up a chessboard with dominos having several spots or squares on the board unavailable to us
 
@@ -14,9 +14,16 @@ example:
                 [0,0,0,0,0]]))
 False
 
+[[1,0,0,0],
+ [0,0,0,0],
+ [0,0,0,1]] # True
+
+[[1,0,0,0],
+ [0,0,0,1]] # False
 
 Submission and grading
 - function name must be fill
 - function must only return either True or False
 - no libraries/imports allowed in the submitted code
 - please use the discord code block when submitting (type "t.tag discord code" without the quotes in #bot-commands for more info)
+
