@@ -6,7 +6,7 @@
 4- Matrix challenge
 5- File Filter challenge (Discord bot) - TODO
 6- Theater escape challenge
-7- Dominos and chess challenge - TODO
+7- Dominos and chess challenge
 8- Timer Challenge
 9- Minesweeper challenge - TODO
 10- Day challenge
