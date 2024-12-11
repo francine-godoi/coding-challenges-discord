@@ -22,8 +22,6 @@ Submission and grading
 - function must take in an integer type argument
 - function must return an integer
 - no libraries/imports allowed in the submission
-- for submission please use the discord code block (type "t.tag discord code" without the quotes in #bot-commands for more info)
-
 
 Note
 You can check for/handle incorrect inputs if you want. The tests will only include correct inputs meaning only integers.
