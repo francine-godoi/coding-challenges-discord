@@ -1,4 +1,4 @@
-Dominos and chess challenge
+# Dominos and chess challenge
 
 It can be fun to experiment using something in a way we don't usually use. Here we'll need to see whether or not we can completely fill up a chessboard with dominos having several spots or squares on the board unavailable to us
 
