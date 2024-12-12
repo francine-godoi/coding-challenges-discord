@@ -11,6 +11,7 @@ example:
 >>> print(solution([[ 0 , 0 , 0 ,'x', 0 ],
                     ['x', 0 , 0 ,'x', 0 ],
                     [ 0 , 0 , 0 , 0 , 0 ]]))
+
 [[ 1 , 1 , 2 ,'x', 2 ],
  ['x', 1 , 2 ,'x', 2 ],
  [ 1 , 1 , 1 , 1 , 1 ]]
@@ -20,4 +21,3 @@ Submission and grading criteria
 - function name must be solution
 - function must return the result
 - no libraries/imports
-- submit using the discord code block (type "t.tag discord code" without the quotes in <#536199577284509696> for more info)
