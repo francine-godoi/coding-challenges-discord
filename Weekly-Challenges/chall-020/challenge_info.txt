@@ -1,0 +1,23 @@
+# T-primes Challenge
+
+Although Smilecat couldn't submit a valid solution for this weekly challenge, he learned that "A number which has only 2 divisors is called a prime number." Smilecat came up with a new theory that "A number which has only 3 divisors will be called T-prime number."
+
+Task
+Take an integer as input. Return True if the number has only 3 divisors otherwise return False.
+
+Example
+>>> print(solution(5))
+False # It only has 2 divisors(1 and 5)
+>>> print(solution(10))
+False # It has 4 divisors(1, 2, 5, 10)
+>>> print(solution(25))
+True # It has exactly 3 divisors(1, 5, 25)
+
+
+Submissions and grading
+- code must be written in python
+- code must be in a function
+- function must be named solution
+- function must take in an integer argument
+- function must return a boolean value (returning 0 or 1 for boolean is accepted)
+- no imports/libraries allowed

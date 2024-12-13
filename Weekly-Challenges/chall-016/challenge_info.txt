@@ -1,0 +1,10 @@
+Coding Challenge #16
+
+Write a function that compresses a given string by replacing consecutive duplicate characters with the character followed by the count of consecutive occurrences. If the compressed string is longer than the original string, return the original string instead. This challenge can be done in any programming language!
+
+For example:
+
+Input:"aaabbbccdaa"
+Output:"a3b3c2d1a2"
+Input:"abcd"
+Output:"abcd" (since compression doesn’t shorten it)

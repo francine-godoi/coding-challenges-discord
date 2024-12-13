@@ -1,0 +1,24 @@
+# Prime Challenge
+
+As practice and as a challenge your math teacher decides to send messages to the class in an encrypted way. Each letter of the alphabet is assigned a prime number in ascending consecutive order (for example: a=2 b=3 c=5 d=7 e=11) You're given a number below which is the prime number assigned to the letter z and a list containing products of adjacent prime numbers.
+
+Task
+Given the number and the list, decrypt the message and return all the letters in order without spaces in between them
+
+example:
+>>> print(solution(102, [6, 15, 35, 77, 143, 221, 323, 437, 667, 899, 1147, 1517, 1763, 2021, 2491, 3127, 3599, 4087, 4757, 5183, 5767, 6557, 7387, 8633, 9797])
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+so the list above is basically each alphabet letter's prime number multiplied by the next prime number in the list
+
+Grading and submission
+- code must be written in python
+- code must be in a function
+- first function argument must be the number
+- second function argument must be the encrypted string
+- function must return the result
+- no imports/libraries allowed
+
+
+Note
+the decrypted text will always contain each letter of the alphabet at least once. In other words it will always be a pangram

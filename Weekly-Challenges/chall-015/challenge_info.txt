@@ -1,0 +1,38 @@
+Coding Challenge #15
+
+Validate a Magic Square​
+Write a function that checks if a given 2D list is a magic square. A magic square is a grid where the sum of every row, column, and diagonal is the same.
+
+Input:​
+[
+[8, 1, 6],
+[3, 5, 7],
+[4, 9, 2]
+]
+All rows, columns and diagonal sum to 15.
+
+Output:​
+True
+
+Input:​
+[
+[16, 2, 3, 13],
+[5, 11, 10, 8],
+[9, 7, 6, 12],
+[4, 14, 15, 1]
+]
+All rows, columns and diagonal sum to 34.
+
+Output:​
+True
+
+Input:​
+[
+[1, 2, 3],
+[4, 5, 6],
+[7, 8, 9]
+]
+​
+
+Output:​
+False
