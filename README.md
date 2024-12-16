@@ -8,13 +8,13 @@ Using these to help me train Python.
     2. Zip/Postal code validating challenge
     3. Generator replicas challenge (range and enumerate)
     4. Matrix challenge
-    5. File Filter challenge (Discord bot) - TODO
+    5. File Filter challenge (Discord bot) - [WIP](https://github.com/francine-godoi/cinnabun-bot)
     6. Theater escape challenge
     7. Dominos and chess challenge
     8. Timer Challenge
     9. Minesweeper challenge
     10. Day challenge
-    11. Array challenge - TODO
+    11. Array challenge
     12. Treasure challenge - TODO
     13. Huffman encoding challenge - TODO
     14. Card Timing Challenge - TODO
