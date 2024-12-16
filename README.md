@@ -8,7 +8,7 @@ Using these to help me train Python.
     2. Zip/Postal code validating challenge
     3. Generator replicas challenge (range and enumerate)
     4. Matrix challenge
-    5. File Filter challenge (Discord bot) - [WIP](https://github.com/francine-godoi/cinnabun-bot)
+    5. File Filter challenge (Discord bot) - WIP
     6. Theater escape challenge
     7. Dominos and chess challenge
     8. Timer Challenge
