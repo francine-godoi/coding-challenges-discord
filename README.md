@@ -15,11 +15,11 @@ Using these to help me train Python.
     9. Minesweeper challenge
     10. Day challenge
     11. Array challenge
-    12. Treasure challenge - TODO
-    13. Huffman encoding challenge - TODO
-    14. Card Timing Challenge - TODO
+    12. Treasure challenge
+    13. Huffman encoding challenge
+    14. Card Timing Challenge
     15. Validate a Magic Square​ - TODO
-    16. Compresses string - TODO
+    16. Compresses string
     17. Back on time! - TODO
     18. Apple Boxes! - TODO
     19. Prime Challenge - TODO
