@@ -23,4 +23,4 @@ Using these to help me train Python.
     17. Back on time! - TODO
     18. Apple Boxes! - TODO
     19. Prime Challenge - TODO
-    20. T-primes Challenge - TODO
+    20. T-primes Challenge
