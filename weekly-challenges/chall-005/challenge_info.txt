@@ -27,7 +27,6 @@ class FileFilter(commands.Cog):
 Using this format, check if the message has any attachments, if the attachments file extention is not in our list of valid extention delete the message and let the user know you cant post files of that filetype!
 Ignore any messages from staff and bots
 
-
 A list of allowed file extensions is available as self.accepted_extentions as seen in the code
 
 Grading
@@ -36,28 +35,6 @@ Your code needs to have or needs to account for:
 - Functionality
 - Order of code
 - Readability 
-
-Reference
-https://discordpy.readthedocs.io/en/latest/
-https://discordpy.readthedocs.io/en/latest/intro.html#installing
-https://discordpy.readthedocs.io/en/latest/api.html#discord.FriendFlags.mutual_guilds
-https://discordpy.readthedocs.io/en/latest/api.html#discord.abc.Messageable.send
-https://discordpy.readthedocs.io/en/latest/ext/commands/cogs.html
-
-https://realpython.com/how-to-make-a-discord-bot-python/
-https://www.youtube.com/watch?v=xdg39s4HSJQ
-https://www.techwithtim.net/tutorials/discord-py
-
-Here are the staff role IDs
-
-HELPER_ID = 541272748161499147
-MOD_ID = 511332506780434438
-ADMIN_ID = 580911082290282506
-TIM_ID = 511334601977888798
-
-
-from discord.ext import commands
-bot = commands.Bot(command_prefix="!")
 
 a message.attachments is a list of attachments .. example :
 
