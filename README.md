@@ -26,3 +26,8 @@ Using these challenges to help me practice the funcamentals of Python.
 - [ ] 18. [Apple Boxes!](weekly-challenges/chall-018) - #TODO
 - [ ] 19. [Prime Challenge](weekly-challenges/chall-019) - #TODO
 - [x] 20. [T-primes Challenge](weekly-challenges/chall-020)
+- [ ] 21. [Chess Piece](weekly-challenges/chall-021) - #TODO
+- [ ] 22. [Easy Numbers](weekly-challenges/chall-022) - #TODO
+- [ ] 23. [In 2120!](weekly-challenges/chall-023) - #TODO
+- [ ] 24. [Count Black Cells](weekly-challenges/chall-024) - #TODO
+- [ ] 25. [Hell Challenge](weekly-challenges/chall-025) - #TODO
