@@ -1,0 +1,32 @@
+Challenge 23: In 2120! (10/12/2020)
+You are walking with your friend to stumble upon an old computer that looks like something a century old but somehow it still has an old script that works. You and your friend start inputting random numbers into it and it either outputs True or False. You and your friend start wondering about the algorithm behind this old mystery piece of tech and go in to try to solve it
+
+>>> solution(902200100)
+... True
+>>> solution(11000)
+... False
+>>> solution(99080)
+... True
+>>> solution(1022220)
+... True
+>>> solution(106611)
+... True
+>>> solution(234230)
+... False
+>>> solution(888)
+... False
+>>> solution(100)
+... False
+>>> solution(1000000000)
+... False
+>>> solution(103456789) 
+... True
+
+
+Submission and grading
+
+- code must be written in python
+- code must be in a function named solution
+- function must take in an integer argument
+- function must return a boolean value (you can use 0 and 1 for the boolean value)
+- no imports/libraries allowed

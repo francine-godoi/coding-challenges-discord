@@ -1,0 +1,21 @@
+Challenge 21: Chess Piece
+
+Your chess teacher wants to know if a bishop can reach a certain spot on the board in the given amount of moves.
+
+Task
+Given a starting square (str), ending square (str) and the maximum number of moves allowed (int). Return True if the ending square can be reached from the starting square within the given amount of moves. Keep in mind the chessboard goes from a1 to h8 (8x8)
+
+example:
+
+>>> print(solution("a1", "b4", 3))
+True
+
+Submission and grading
+
+- code must be written in python
+- code must be in a function
+- function must take in three arguments: (str, str, int)
+- function must return a boolean value (you can use 0 and 1 for the boolean value)
+- do not use user input
+- best not print anything out
+- no imports/libraries allowed
