@@ -20,7 +20,7 @@ Estou usando esses desafios para me ajudar a treinar os fundamentos do Python
 - [x] 12. [Desafio tesouro](weekly-challenges/chall-012)
 - [x] 13. [Codificação Huffman](weekly-challenges/chall-013)
 - [x] 14. [Desafio tempo no cartão](weekly-challenges/chall-014)
-- [ ] 15. [Validação quadrado magico](weekly-challenges/chall-015) - #TODO
+- [x] 15. [Validação quadrado magico](weekly-challenges/chall-015)
 - [x] 16. [Comprimindo string](weekly-challenges/chall-016)
 - [ ] 17. [De volta no tempo!](weekly-challenges/chall-017) - #TODO
 - [ ] 18. [Caixa de maçãs!](weekly-challenges/chall-018) - #TODO

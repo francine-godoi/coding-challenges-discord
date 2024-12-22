@@ -20,7 +20,7 @@ Using these challenges to help me practice the funcamentals of Python.
 - [x] 12. [Treasure challenge](weekly-challenges/chall-012)
 - [x] 13. [Huffman encoding challenge](weekly-challenges/chall-013)
 - [x] 14. [Card Timing Challenge](weekly-challenges/chall-014)
-- [ ] 15. [Validate a Magic Square​](weekly-challenges/chall-015) - #TODO
+- [x] 15. [Validate a Magic Square​](weekly-challenges/chall-015)
 - [x] 16. [Compresses string](weekly-challenges/chall-016)
 - [ ] 17. [Back on time!](weekly-challenges/chall-017) - #TODO
 - [ ] 18. [Apple Boxes!](weekly-challenges/chall-018) - #TODO
