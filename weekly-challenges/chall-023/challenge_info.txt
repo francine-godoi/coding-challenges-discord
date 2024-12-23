@@ -1,4 +1,4 @@
-Challenge 23: In 2120! (10/12/2020)
+Challenge 23: In 2120!
 You are walking with your friend to stumble upon an old computer that looks like something a century old but somehow it still has an old script that works. You and your friend start inputting random numbers into it and it either outputs True or False. You and your friend start wondering about the algorithm behind this old mystery piece of tech and go in to try to solve it
 
 >>> solution(902200100)
