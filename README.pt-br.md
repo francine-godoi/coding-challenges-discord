@@ -28,7 +28,7 @@ Estou usando esses desafios para me ajudar a treinar os fundamentos do Python
 - [x] 20. [Desafio T-primes](weekly-challenges/chall-020)
 - [ ] 21. [Peça de xadrez](weekly-challenges/chall-021) - #TODO
 - [ ] 22. [Números fáceis](weekly-challenges/chall-022) - #TODO
-- [ ] 23. [Em 2120!](weekly-challenges/chall-023) - #TODO
+- [x] 23. [Em 2120!](weekly-challenges/chall-023)
 - [ ] 24. [Conte células pretas](weekly-challenges/chall-024) - #TODO
 - [ ] 25. [Desafio inferno](weekly-challenges/chall-025) - #TODO
 
