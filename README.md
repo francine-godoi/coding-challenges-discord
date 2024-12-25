@@ -1,33 +1,34 @@
-# Coding Challenges from Discord
-[![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.pt-br.md)
+# Desafios de Código do Discord
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](README.md)
 
-Using these challenges to help me practice the funcamentals of Python.
+Estou usando esses desafios para me ajudar a treinar os fundamentos do Python
 
-## Weekly Challenges Index
+## Desafios Semanais Index
 
-- [x] 1. [Year to century converter challenge](weekly-challenges/chall-001)
-- [x] 2. [Zip/Postal code validating challenge](weekly-challenges/chall-002)
-- [x] 3. [Generator replicas challenge (range and enumerate)](weekly-challenges/chall-003)
-- [x] 4. [Matrix challenge](weekly-challenges/chall-004)
-- [x] 5. [File Filter challenge (Discord bot)](weekly-challenges/chall-005)
-- [x] 6. [Theater escape challenge](weekly-challenges/chall-006)
-- [x] 7. [Dominos and chess challenge](weekly-challenges/chall-007)
-- [x] 8. [Timer Challenge](weekly-challenges/chall-008)
-- [x] 9. [Minesweeper challenge](weekly-challenges/chall-009)
-- [x] 10. [Day challenge](weekly-challenges/chall-010)
-- [x] 11. [Array challenge](weekly-challenges/chall-011)
-- [x] 12. [Treasure challenge](weekly-challenges/chall-012)
-- [x] 13. [Huffman encoding challenge](weekly-challenges/chall-013)
-- [x] 14. [Card Timing Challenge](weekly-challenges/chall-014)
-- [x] 15. [Validate a Magic Square​](weekly-challenges/chall-015)
-- [x] 16. [Compresses string](weekly-challenges/chall-016)
-- [ ] 17. [Back on time!](weekly-challenges/chall-017) - #TODO
-- [ ] 18. [Apple Boxes!](weekly-challenges/chall-018) - #TODO
-- [ ] 19. [Prime Challenge](weekly-challenges/chall-019) - #TODO
-- [x] 20. [T-primes Challenge](weekly-challenges/chall-020)
-- [ ] 21. [Chess Piece](weekly-challenges/chall-021) - #TODO
-- [ ] 22. [Easy Numbers](weekly-challenges/chall-022) - #TODO
-- [x] 23. [In 2120!](weekly-challenges/chall-023)
-- [ ] 24. [Count Black Cells](weekly-challenges/chall-024) - #TODO
-- [ ] 25. [Hell Challenge](weekly-challenges/chall-025) - #TODO
+- [x] 1. [Conversor ano para século](weekly-challenges/chall-001)
+- [x] 2. [Validação de cógigo postal(padrão eua)](weekly-challenges/chall-002)
+- [x] 3. [Replica generators(range and enumerate)](weekly-challenges/chall-003)
+- [x] 4. [Desafio matrix](weekly-challenges/chall-004)
+- [x] 5. [Filtragem de arquivos(Discord bot)](weekly-challenges/chall-005)
+- [x] 6. [Escapando do cinema](weekly-challenges/chall-006)
+- [x] 7. [Dominos e xadrez](weekly-challenges/chall-007)
+- [x] 8. [Desafio de tempo](weekly-challenges/chall-008)
+- [x] 9. [Campo minado](weekly-challenges/chall-009)
+- [x] 10. [Desafio dia](weekly-challenges/chall-010)
+- [x] 11. [Desafio array](weekly-challenges/chall-011)
+- [x] 12. [Desafio tesouro](weekly-challenges/chall-012)
+- [x] 13. [Codificação Huffman](weekly-challenges/chall-013)
+- [x] 14. [Desafio tempo no cartão](weekly-challenges/chall-014)
+- [x] 15. [Validação quadrado magico](weekly-challenges/chall-015)
+- [x] 16. [Comprimindo string](weekly-challenges/chall-016)
+- [ ] 17. [De volta no tempo!](weekly-challenges/chall-017) - #TODO
+- [ ] 18. [Caixa de maçãs!](weekly-challenges/chall-018) - #TODO
+- [ ] 19. [Desafio número primo](weekly-challenges/chall-019) - #TODO
+- [x] 20. [Desafio T-primes](weekly-challenges/chall-020)
+- [ ] 21. [Peça de xadrez](weekly-challenges/chall-021) - #TODO
+- [ ] 22. [Números fáceis](weekly-challenges/chall-022) - #TODO
+- [x] 23. [Em 2120!](weekly-challenges/chall-023)
+- [ ] 24. [Conte células pretas](weekly-challenges/chall-024) - #TODO
+- [ ] 25. [Desafio inferno](weekly-challenges/chall-025) - #TODO
+
